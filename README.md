@@ -1,6 +1,8 @@
 go-mega
 =======
 
+**Forked from [t3rm1n4l/go-mega](https://github.com/t3rm1n4l/go-mega])**
+
 A client library in go for mega.co.nz storage service.
 
 An implementation of command-line utility can be found at [https://github.com/t3rm1n4l/megacmd](https://github.com/t3rm1n4l/megacmd)
